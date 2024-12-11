@@ -45,10 +45,8 @@ function keyPressed(){
         case LEFT_ARROW:
             direzioneX = -1;
             direzioneY = 0;
-            break;
-                
-
-
+            break;  
+            
         default:
             break;
     }
